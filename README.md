@@ -1,2 +1,3 @@
 # DonationManagingSystem
-Η βασική γλώσσα της αναφοράς ειναι η Java.
+Η βασική γλώσσα της αναφοράς είναι η Java.
+Το αρχείο ProjectOO
