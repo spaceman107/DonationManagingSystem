@@ -101,10 +101,10 @@ public class Organization {
         ArrayList<Entity> serviceList = new ArrayList<>();
 
         for (Entity i : entityList) {
-            if (i.getEntityType() == "Material") {
+            if (i.getEntityType().equals("Material")) {
                 materialList.add(i);
             }
-            if (i.getEntityType() == "Service") {
+            if (i.getEntityType().equals("Service")) {
                 serviceList.add(i);
             }
         }
